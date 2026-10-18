@@ -1,0 +1,6 @@
+  data/geocode_cache.csv
+  .Rhistory
+  .RData
+  .Rproj.user/
+  __pycache__/
+  .venv/
